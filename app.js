@@ -10,6 +10,6 @@ function natija(){
 }
 
 function dlt(){
-    hisob.value=hisob.value.length - 1;
+    hisob.value='';
 
 }

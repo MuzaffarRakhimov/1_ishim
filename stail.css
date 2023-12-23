@@ -1,54 +1,84 @@
-#tana{
-    width: 300px;
-    height: 500px;
-    border: 1px solid ;
-    margin-top: 10px;
-    margin-left: 300px;
-    border-radius: 20px;
-    box-shadow: 0 0 30px black;
+#tana {
+  width: 300px;
+  height: 500px;
+  border: 1px solid;
+  margin-top: 10px;
+  margin-left: 300px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px rgba(83, 81, 81, 0.392);
+}
+#tana2 {
+  color: #fff;
+  width: 290px;
+  height: 490px;
+  border: 1px solid;
+  margin-top: 10px;
+  margin: 4px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(83, 81, 81, 0.392);
 }
 
-#hisob{
-    width: 90%;
-    height: 50px;
-    border: 0;
-    margin: 15px;
-    margin-top: 20px;
-    border-radius: 10px;
-    box-shadow: 10pt rgba(0, 0, 255, 0.514);
+#hisob {
+  width: 95%;
+  height: 60px;
+  border: 1px;
+  padding: 4px;
+  margin: 28px;
+  margin-top: 20px;
+  border-radius: 10px;
 }
 
-#m{
-    width: 97%;
-    height: 87%;
-    border-radius: 10px;
-    border: 0;
-    box-shadow: 0 0 10px black;
+#hisob2 {
+  width: 80%;
+  height: 40px;
+  padding: 6px;
+  border-radius: 10px;
+  border: 0;
+  box-shadow: 0 0 10px rgb(205, 196, 196);
 }
 
-.nomer{
-    width: 60px;
-    height: 70px;
-    margin-left: 10px;
-    margin-top: 20px;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.342);
+#m {
+  width: 95%;
+  height: 85%;
+  margin: auto;
+  border-radius: 5px;
+  border: 0;
+  box-shadow: 0 0 10px rgb(143, 139, 139);
 }
 
-.nomer2{
-    width: 120px;
-    height: 80px;
-    margin-left: 15px;
-    margin-top: 20px;
-    border-radius: 5px;
+.nomer {
+  width: 46px;
+  height: 65px;
+  border: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.342);
 }
 
-.nomer2:hover{
-    background-color: rgba(0, 0, 0, 0.76);
-    cursor: pointer;
+#MRC {
+  border-radius: 20px 0px 0px 0px;
 }
 
-.nomer:hover{
-    background-color: rgba(0, 0, 0, 0.76);
-    cursor: pointer;
+#slesh {
+  border-radius: 0px 20px 0px 0px;
+}
+
+#barobar {
+  border-radius: 0px 0px 20px 0px;
+}
+
+#ON {
+  border-radius: 0px 0px 0px 20px;
+}
+
+#chegara {
+  width: 250px;
+  height: 330px;
+  border: 1px solid;
+  margin: 20px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.nomer:hover {
+  background-color: rgba(64, 6, 97, 0.611);
+  cursor: pointer;
 }
